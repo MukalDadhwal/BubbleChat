@@ -1,4 +1,4 @@
-module bubblechat/server
+module github.com/MukalDadhwal/BubbleChat
 
 go 1.24.4
 
